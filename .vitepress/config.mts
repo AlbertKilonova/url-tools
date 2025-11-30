@@ -1,24 +1,30 @@
 import { defineConfig } from 'vitepress'
 
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "实用网站整合",
   description: "致力于收集实用网站喵",
+  lastUpdated: true,
   themeConfig: {
+    editLink: {
+      pattern: 'https://github.com/NootFond/url-tools/edit/main/:path',
+      text: '在 GitHub 上编辑此页'
+    },
     // https://vitepress.dev/reference/default-theme-config
-  nav: [
-    { text: '首页', link: '/' },
-    { text: '公告', link: '/announcements' },
-    { text: '网站列表', link: '/sites/' },
-    {
-      text: '关于', // 这是一个下拉菜单的父级
-      items: [
-        { text: '关于本站', link: '/about' },
-        { text: '帮助修改', link: '/help-us' },
-        { text: '贡献者们', link: '/contributors' }
-      ]
-    }
-  ],
+    nav: [
+      { text: '首页', link: '/' },
+      { text: '公告', link: '/announcements' },
+      { text: '网站列表', link: '/sites/' },
+      {
+        text: '关于',
+        items: [
+          { text: '关于本站', link: '/about' },
+          { text: '帮助修改', link: '/help-us' },
+          { text: '贡献者们', link: '/contributors' }
+        ]
+      }
+    ],
 
     sidebar: [
       {
@@ -50,12 +56,11 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    
     ],
 
     footer: {
       message: '基于 MIT 许可发布',
       copyright: `版权所有 © ${new Date().getFullYear()} NootFond`
     }
-    }
+  }
 })

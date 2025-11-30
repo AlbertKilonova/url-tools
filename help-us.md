@@ -11,7 +11,7 @@
 你可以通过以下方式提交你的推荐喵：
 
 - **QQ群提交链接 (推荐)**：如果你使用 QQ ，可以加入 [牢桉的分享群](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=4_QqOatb_JZn1HMKt2mmiUQD8d1k-LH9&authKey=hx9540HeTb8XcauSXS7CHDqKPn2MyJwyvqlppM%2F7Vm6m51mc%2FwiPXj1zi%2FF2hseJ&noverify=0&group_code=1074482483)，然后在群内提交你的推荐。
-- **在 GitHub 上提交 Issue**：访问我们的 [GitHub 仓库](https://github.com/你的用户名/你的仓库名/issues )，点击 "New Issue"，然后使用我们提供的模板来提交你推荐的网站喵。
+- **在 GitHub 上提交 Issue**：访问我们的 [GitHub 仓库](https://github.com/NootFond/url-tools/issues )，点击 "New Issue"，然后使用我们提供的模板来提交你推荐的网站喵。
 - **其他方式**: 如果你不太熟悉 GitHub，也可以通过其他渠道联系到站长，我们会手动添加进来喵。
 
 ## 报告失效的链接或错误喵
