@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,ah as h}from"./chunks/framework.Cga242Po.js";const _=JSON.parse('{"title":"关于本站","description":"","frontmatter":{},"headers":[],"relativePath":"about.md","filePath":"about.md"}'),n={name:"about.md"};function s(i,a,l,o,p,d){return t(),r("div",null,[...a[0]||(a[0]=[h("",17)])])}const b=e(n,[["render",s]]);export{_ as __pageData,b as default};
