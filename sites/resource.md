@@ -5,6 +5,8 @@
 - **[NootFond资源分享](http://share.nootfond.top/ )** - 一个综合性的资源分享站，内容丰富喵。
 - **[Me83](https://www.me83.com/ )** - 提供 Adobe 等设计软件相关资源喵。
 - **[Adobe 软件学习](https://kpkilol182.feishu.cn/wiki/wikcnHy2t4cW7WkgIeAXurBLxOR )** - 飞书文档形式的 Adobe 软件学习资源喵。
+- **[软仓](https://ruancang.net)** - 提供学习用途的许多软件的破解版。
+- **[影视飓风](https://www.ysjf.com/home)** - 影视飓风的高清资源。
 
 ### 字体资源
 
@@ -21,11 +23,11 @@
 ---
 
 ##### 阿波的123云盘资源分享
-- [**素材**](https://www.123865.com/s/gSs1Td-Dm3M)
-- [**壁纸**](https://www.123865.com/s/gSs1Td-8m3M)
-- [**图片**](https://www.123865.com/s/gSs1Td-0m3M)
-- [**音乐**](https://www.123865.com/s/gSs1Td-um3M)
-- [**字体**](https://www.123865.com/s/gSs1Td-Um3M)
-- [**应用**](https://www.123865.com/s/gSs1Td-Sm3M)
+    - [**素材**](https://www.123865.com/s/gSs1Td-Dm3M)
+    - [**壁纸**](https://www.123865.com/s/gSs1Td-8m3M)
+    - [**图片**](https://www.123865.com/s/gSs1Td-0m3M)
+    - [**音乐**](https://www.123865.com/s/gSs1Td-um3M)
+    - [**字体**](https://www.123865.com/s/gSs1Td-Um3M)
+    - [**应用**](https://www.123865.com/s/gSs1Td-Sm3M)
 
 ---
